@@ -1,9 +1,12 @@
-### Hi there 👋
+<h2> Hi there 👋, I'm Sergio! </h2>
 
-- 🔭 I’m currently working on sharing my knowledge on [my personal blog](https://sergiomartinrubio.com) 🤓 where I usually write articles about the Java ecosystem and DevOps
-- 🌱 I’m currently learning Web3
-- 👯 I’m looking to collaborate on open source Java projects
-- 🤔 I’m looking for help with Blockchain development 🤯
-- 💬 Ask me about Java
-- 📫 How to reach me: at my [e-mail](mailto:me@sergiomartinrubio.com). I'm also [on Twitter (@smartinrubio)](http://twitter.com/smartinrubio)
-- ⚡ Fun fact: Getting hit by lightning is almost 4 times more likely than winning the lottery
+[![Sergio Martin Rubio Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiomartinrubio/)
+[![Sergio Martin Rubio YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLNK8nM3gtea2fPdBsDsVKw)
+[![Sergio Martin Rubio Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/smartinrubio)
+
+#### Github Stats 📊
+
+[![Sergio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=smartinrub&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Sergio's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=smartinrub&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartinrub)](https://github.com/anuraghazra/github-readme-stats)
