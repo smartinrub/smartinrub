@@ -6,7 +6,7 @@
 
 #### Github Stats 📊
 
-[![Sergio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=smartinrub&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Sergio's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=smartinrub&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Sergio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=smartinrub&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Sergio's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=smartinrub&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartinrub)](https://github.com/anuraghazra/github-readme-stats)
